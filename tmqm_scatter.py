@@ -14,6 +14,6 @@ plt.scatter(tmqm_properties["Electronic_E"],\
             alpha=0.3)
 
 plt.ylabel('Dispersion_E')
-plt.xlabel('Electronic_E')
+plt.xlabel('HL_Gap')
 
 plt.show()
